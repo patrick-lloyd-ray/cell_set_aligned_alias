@@ -13,7 +13,7 @@ L2/3 IT,Intratelencephalic,(ILX:0770156)
 L4 ,Intratelencephalic; sparsely present in M1,
 L5 IT,Intratelencephalic,(ILX:0770157)
 L6 IT,Intratelencephalic,(ILX:0770158)
-L6 IT Car3,"Intratelencephalic, a specific cell type expressing the gene Car3 in mouse,(ILX:0770159)"
+L6 IT Car3,Intratelencephalic: a specific cell type expressing the gene Car3 in mouse,(ILX:0770159)
 L5 ET,"Extratelencephalic; also known as CF (corticofugal), PT (pyramidal tract), or SC (subcortical),(ILX:0770160)"
 L5/6 NP,Near-projecting,(ILX:0770161)
 L6 CT,Corticothalamic,(ILX:0770162)
