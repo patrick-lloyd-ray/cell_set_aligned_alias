@@ -26,7 +26,7 @@ VLMC,Vascular leptomeningeal cell,(ILX:0770143),
 SMC,Smooth muscle cell,(ILX:0770144),
 Pericyte,Pericyte (often abbreviated “Peri”),(ILX:0770145),
 Microglia,Microglia (often abbreviated “Micro”),(ILX:0770146),
-PVM,Perivascular macrophage,(ILX:0770147)
+PVM,Perivascular macrophage,(ILX:0770147),
 Microglia-PVM,Microglia (often abbreviated “Micro”) / Perivascular macrophage,,
 GABAergic,Typically inhibitory,(ILX:0770098),
 Glutamatergic,Typically excitatory,(ILX:0770097),
