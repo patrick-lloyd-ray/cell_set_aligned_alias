@@ -1,39 +1,39 @@
-﻿Aligned aliases,Alternative aliases / Description / Notes,Interlex
-Lamp5,,(ILX:0770149)
-Lamp5 Lhx6,A distinct Lamp5 type also expressing the MGE marker Lhx6,
-Sncg,,(ILX:0770150)
-Vip,,(ILX:0770151)
-Sst Chodl,A very distinct Sst type expressing the gene Chodl in mouse; the only reported long-range projecting GABAergic type,(ILX:0770153)
-Sst,,(ILX:0770152)
-Pvalb,Includes basket and chandelier cells,(ILX:0770154)
-Chandelier,,
-Meis2,A very distinct GABAergic type expressing the gene Meis2 in mouse,
-CR,Cajal Retzius,
-L2/3 IT,Intratelencephalic,(ILX:0770156)
-L4 ,Intratelencephalic; sparsely present in M1,
-L5 IT,Intratelencephalic,(ILX:0770157)
-L6 IT,Intratelencephalic,(ILX:0770158)
-L6 IT Car3,Intratelencephalic: a specific cell type expressing the gene Car3 in mouse,(ILX:0770159)
-L5 ET,Extratelencephalic; also known as CF (corticofugal)- PT (pyramidal tract)- or SC (subcortical),(ILX:0770160)
-L5/6 NP,Near-projecting,(ILX:0770161)
-L6 CT,Corticothalamic,(ILX:0770162)
-L6b,,(ILX:0770163)
-OPC,Oligodendrocyte precursor cell,(ILX:0770139)
-Astrocyte,Astrocyte (often abbreviated “Astro”),(ILX:0770141)
-Oligodendrocyte,Oligodendrocyte (often abbreviated “Oligo”),(ILX:0770140)
-Endothelial,Endothelial cell (often abbreviated “Endo”),(ILX:0770142)
-VLMC,Vascular leptomeningeal cell,(ILX:0770143)
-SMC,Smooth muscle cell,(ILX:0770144)
-Pericyte,Pericyte (often abbreviated “Peri”),(ILX:0770145)
-Microglia,Microglia (often abbreviated “Micro”),(ILX:0770146)
+﻿Aligned aliases,Description / Notes,Interlex,CL
+Lamp5,,(ILX:0770149),
+Lamp5 Lhx6,A distinct Lamp5 type also expressing the MGE marker Lhx6,,
+Sncg,,(ILX:0770150),
+Vip,,(ILX:0770151),
+Sst Chodl,A very distinct Sst type expressing the gene Chodl in mouse; the only reported long-range projecting GABAergic type,(ILX:0770153),
+Sst,,(ILX:0770152),
+Pvalb,Includes basket and chandelier cells,(ILX:0770154),
+Chandelier,,,
+Meis2,A very distinct GABAergic type expressing the gene Meis2 in mouse,,
+CR,Cajal Retzius,,
+L2/3 IT,Intratelencephalic,(ILX:0770156),
+L4 ,Intratelencephalic; sparsely present in M1,,
+L5 IT,Intratelencephalic,(ILX:0770157),
+L6 IT,Intratelencephalic,(ILX:0770158),
+L6 IT Car3,Intratelencephalic: a specific cell type expressing the gene Car3 in mouse,(ILX:0770159),
+L5 ET,Extratelencephalic; also known as CF (corticofugal)- PT (pyramidal tract)- or SC (subcortical),(ILX:0770160),
+L5/6 NP,Near-projecting,(ILX:0770161),
+L6 CT,Corticothalamic,(ILX:0770162),
+L6b,,(ILX:0770163),
+OPC,Oligodendrocyte precursor cell,(ILX:0770139),
+Astrocyte,Astrocyte (often abbreviated “Astro”),(ILX:0770141),
+Oligodendrocyte,Oligodendrocyte (often abbreviated “Oligo”),(ILX:0770140),
+Endothelial,Endothelial cell (often abbreviated “Endo”),(ILX:0770142),
+VLMC,Vascular leptomeningeal cell,(ILX:0770143),
+SMC,Smooth muscle cell,(ILX:0770144),
+Pericyte,Pericyte (often abbreviated “Peri”),(ILX:0770145),
+Microglia,Microglia (often abbreviated “Micro”),(ILX:0770146),
 PVM,Perivascular macrophage,(ILX:0770147)
-Microglia-PVM,Microglia (often abbreviated “Micro”) / Perivascular macrophage,
-GABAergic,Typically inhibitory,(ILX:0770098)
-Glutamatergic,Typically excitatory,(ILX:0770097)
-Non-neuronal,Sometimes abbreviated “NN”- also referred to as “glia” in cases when no non-neuronal and non-glial cell types are included,(ILX:0770099)
-CGE/PoA,Caudal ganglionic eminence / Preoptic area,
-MGE,Medial ganglionic eminence,
-IT projecting,,(ILX:0770100)
-Non-IT projecting,,
-Oligodendrocyte-OPC,Oligodendrocyte (often abbreviated “Oligo”) / Oligodendrocyte precursor cell,
-Other NN,Cells other than neurons (astrocytes - OPCs - or oligodendrocytes - also referred to as non-neural brain cell,(ILX:0770187)
+Microglia-PVM,Microglia (often abbreviated “Micro”) / Perivascular macrophage,,
+GABAergic,Typically inhibitory,(ILX:0770098),
+Glutamatergic,Typically excitatory,(ILX:0770097),
+Non-neuronal,Sometimes abbreviated “NN”- also referred to as “glia” in cases when no non-neuronal and non-glial cell types are included,(ILX:0770099),
+CGE/PoA,Caudal ganglionic eminence / Preoptic area,,
+MGE,Medial ganglionic eminence,,
+IT projecting,,(ILX:0770100),
+Non-IT projecting,,,
+Oligodendrocyte-OPC,Oligodendrocyte (often abbreviated “Oligo”) / Oligodendrocyte precursor cell,,
+Other NN,Cells other than neurons (astrocytes - OPCs - or oligodendrocytes - also referred to as non-neural brain cell,(ILX:0770187),
