@@ -30,7 +30,7 @@ PVM,Perivascular macrophage,(ILX:0770147)
 Microglia-PVM,Microglia (often abbreviated “Micro”) / Perivascular macrophage,
 GABAergic,Typically inhibitory,(ILX:0770098)
 Glutamatergic,Typically excitatory,(ILX:0770097)
-Non-neuronal,Sometimes abbreviated “NN”- also referred to as “glia” in cases when no non-neuronal, non-glial cell types are included,(ILX:0770099)
+Non-neuronal,Sometimes abbreviated “NN”- also referred to as “glia” in cases when no non-neuronal and non-glial cell types are included,(ILX:0770099)
 CGE/PoA,Caudal ganglionic eminence / Preoptic area,
 MGE,Medial ganglionic eminence,
 IT projecting,,(ILX:0770100)
