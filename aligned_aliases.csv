@@ -6,7 +6,7 @@ Vip,A GABAergic neuron that expresses Vasoactive intestinal polypeptide. (synony
 Sst Chodl,A GABAergic neuron that expresses Nos1 and has long-range axonal projections. A very distinct Sst type expressing the gene Chodl in mouse; the only reported long-range projecting GABAergic type,(ILX:0770153),,,
 Sst,A GABAergic neuron that expresses somatostatin (Sst).,(ILX:0770152),,,
 Pvalb,A GABAergic neuron that expresses Parvalbumin. Includes basket and chandelier cells,(ILX:0770154),,,
-Chandelier,A type of cortical interneuron characterized by a bitufted appearance, with groups of dendrites extending from the upper and lower poles of an elongate cell body. Some cells have a more multipolar configuration,(ILX:0107356),,,
+Chandelier,A type of cortical interneuron characterized by a bitufted appearance with groups of dendrites extending from the upper and lower poles of an elongate cell body. Some cells have a more multipolar configuration,(ILX:0107356),,,
 Meis2,A GABAertic neuron that expresses Meis2. A very distinct GABAergic type expressing the gene Meis2 in mouse,(ILX:0770155),,,
 CR,Cajal Retzius -- neurons of the human embryonic marginal zone that display radial ascending processes that contact the pial surface and a horizontal axon plexus located in the deep marginal zone.,(ILX:0107354),,,
 L2/3 IT,An intratelencephalic-projecting glutamatergic neuron located in cortical layer 2/3,(ILX:0770156),,,
