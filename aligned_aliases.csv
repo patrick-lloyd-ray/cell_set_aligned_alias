@@ -23,7 +23,7 @@ Astrocyte,A glial cell of neuroectodermal origin that creates a myelin sheath an
 Oligodendrocyte,A glial cell of neuroectodermal origin that creates a myelin sheath and provides support and insulation to axons (often abbreviated “Oligo”),(ILX:0770140),,,
 Endothelial,A microvascular endothelial cell that provides some of the structure of the BBB and originates from the hemangioblast (often abbreviated “Endo”),(ILX:0770142),,,
 VLMC,A neurohypophyseal cell that expresses Pdgfra and Lum; a fibroblast-esque cell that is attached to vessels and located in the space between smooth muscle and astrocytes. (vascular leptomeningeal cells -- VLMCs),(ILX:0770143),,,
-SMC,A muscle cell that originates in the mesoderm, maybe neural crest (Smooth muscle cell),(ILX:0770144),,,
+SMC,A muscle cell that originates in the mesoderm -- maybe neural crest (Smooth muscle cell),(ILX:0770144),,,
 Pericyte,A mural cell that wraps endothelial cells and forms part of the neurovascular unit (often abbreviated “Peri”),(ILX:0770145),,,
 Microglia,A glial cell taht is a microglia (often abbreviated “Micro”),(ILX:0770146),,,
 PVM,A myeloid cell that is located in the perivascular compartment around arteries and veins that originates from yolk-sac progenitors.,(ILX:0770147),,,
